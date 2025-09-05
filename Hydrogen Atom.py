@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 25 13:30:18 2022
 
 @author: harve
 """
@@ -174,6 +172,7 @@ R.SphericalharmonicGraph(m, l, theta, phi)
 R.RadialGraph(n,l)
 R.Wavefunction(n, l, m)
 R.Observables(n, l, m, s)
+
 
 
 
